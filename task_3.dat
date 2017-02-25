@@ -1,0 +1,25 @@
+!Active
+
+Harmonic_Degrees
+2 2048
+1
+0
+0
+
+Make_Model
+2
+7
+50
+1
+0.40
+0.00373
+
+Ad_Hoc
+AK5.xyz
+
+Local_Study
+2
+1 1 1 1 1 1
+taboo_sites_loc
+0.005 0.240 0.2349
+0
